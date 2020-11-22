@@ -1,5 +1,7 @@
 # Hello, github pages!
 
-### 1. [SSH and SCP](/ssh.md)
+- [SSH and SCP](/ssh.md)
 
-### 2. [Docker notes](/docker-notes.md)
+- [Docker notes](/docker-notes.md)
+
+- [Git SSH keys](/git-ssh-keys.md)
